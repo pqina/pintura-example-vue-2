@@ -21,7 +21,7 @@
     "filepond": "4.x",
     "filepond-plugin-file-poster": "^2.4.4",
     "filepond-plugin-file-validate-type": "^1.2.5",
-    "vue": "^2.6.11",
+    "vue": "^2.7.15",
     "vue-filepond": "^6.0.3"
   },
   "devDependencies": {
@@ -31,7 +31,7 @@
     "babel-eslint": "^10.1.0",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.11"
+    "vue-template-compiler": "^2.7.15"
   },
   "eslintConfig": {
     "root": true,
