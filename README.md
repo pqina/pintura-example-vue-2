@@ -1,4 +1,4 @@
-# Pintura Vue 2 example project
+# Vue 2 Image Editor with Pintura example project
 
 Run `npm install` to install project dependencies, then run `npm start` to start the development server.
 
